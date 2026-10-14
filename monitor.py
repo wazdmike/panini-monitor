@@ -24,12 +24,19 @@ SESSION.headers.update({'User-Agent': 'BleachRemixPaniniMonitor/2.0 (personal mo
 def read_json(path):
     if not path.exists():
         return {}
-    data = json.loads(path.read_text(encoding='utf-8'))
-    if not isinstance(data, dict):
-        raise ValueError(f'{path} precisa conter um objeto JSON')
-    return data
 
+    try:
+        content = path.read_text(encoding="utf-8").strip()
 
+        if not content:
+            return {}
+
+        return json.loads(content)
+
+    except (json.JSONDecodeError, UnicodeDecodeError):
+        print(f"WARNING: JSON inválido em {path}")
+        return {}
+    
 def write_json(path, data):
     temp = path.with_suffix(path.suffix + '.tmp')
     temp.write_text(json.dumps(data, ensure_ascii=False, indent=2, sort_keys=True) + '\n', encoding='utf-8')
