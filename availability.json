@@ -1,1 +1,122 @@
-{}
+{
+  "https://panini.com.br/bleach-remix-vol-1-abler001r5": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 1"
+  },
+  "https://panini.com.br/bleach-remix-vol-10": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 10"
+  },
+  "https://panini.com.br/bleach-remix-vol-11": {
+    "status": "preorder",
+    "stock": false,
+    "title": "Bleach Remix Vol. 11"
+  },
+  "https://panini.com.br/bleach-remix-vol-12": {
+    "status": "preorder",
+    "stock": false,
+    "title": "Bleach Remix Vol. 12"
+  },
+  "https://panini.com.br/bleach-remix-vol-13": {
+    "status": "preorder",
+    "stock": false,
+    "title": "Bleach Remix Vol. 13"
+  },
+  "https://panini.com.br/bleach-remix-vol-14": {
+    "status": "preorder",
+    "stock": false,
+    "title": "Bleach Remix Vol. 14"
+  },
+  "https://panini.com.br/bleach-remix-vol-15": {
+    "status": "out_of_stock",
+    "stock": false,
+    "title": "Bleach Remix Vol. 15"
+  },
+  "https://panini.com.br/bleach-remix-vol-17": {
+    "status": "out_of_stock",
+    "stock": false,
+    "title": "Bleach Remix Vol. 17"
+  },
+  "https://panini.com.br/bleach-remix-vol-18": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 18"
+  },
+  "https://panini.com.br/bleach-remix-vol-19": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 19"
+  },
+  "https://panini.com.br/bleach-remix-vol-2": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 2"
+  },
+  "https://panini.com.br/bleach-remix-vol-20": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 20"
+  },
+  "https://panini.com.br/bleach-remix-vol-21": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 21"
+  },
+  "https://panini.com.br/bleach-remix-vol-22": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 22"
+  },
+  "https://panini.com.br/bleach-remix-vol-23": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 23"
+  },
+  "https://panini.com.br/bleach-remix-vol-24": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 24"
+  },
+  "https://panini.com.br/bleach-remix-vol-25": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 25"
+  },
+  "https://panini.com.br/bleach-remix-vol-26": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 26"
+  },
+  "https://panini.com.br/bleach-remix-vol-4-abler004r3": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 4"
+  },
+  "https://panini.com.br/bleach-remix-vol-5-abler005r3": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 5"
+  },
+  "https://panini.com.br/bleach-remix-vol-6-abler006r2": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 6"
+  },
+  "https://panini.com.br/bleach-remix-vol-7-abler007r2": {
+    "status": "out_of_stock",
+    "stock": false,
+    "title": "Bleach Remix Vol. 7"
+  },
+  "https://panini.com.br/bleach-remix-vol-8-abler008r2": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 8"
+  },
+  "https://panini.com.br/bleach-remix-vol-9-abler009r2": {
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 9"
+  }
+}
