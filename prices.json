@@ -1,6 +1,6 @@
 {
   "https://panini.com.br/bleach-remix-vol-1-abler001r5": {
-    "price": "69.90",
+    "price": "55.92",
     "shop": "Panini",
     "status": "in_stock",
     "stock": true,
@@ -48,17 +48,25 @@
     "url": "https://panini.com.br/bleach-remix-vol-14"
   },
   "https://panini.com.br/bleach-remix-vol-15": {
-    "price": "64.90",
+    "price": "69.90",
     "shop": "Panini",
-    "status": "out_of_stock",
+    "status": "preorder",
     "stock": false,
     "title": "Bleach Remix Vol. 15",
     "url": "https://panini.com.br/bleach-remix-vol-15"
   },
-  "https://panini.com.br/bleach-remix-vol-17": {
-    "price": "64.90",
+  "https://panini.com.br/bleach-remix-vol-16": {
+    "price": "69.90",
     "shop": "Panini",
-    "status": "out_of_stock",
+    "status": "preorder",
+    "stock": false,
+    "title": "Bleach Remix Vol. 16",
+    "url": "https://panini.com.br/bleach-remix-vol-16"
+  },
+  "https://panini.com.br/bleach-remix-vol-17": {
+    "price": "69.90",
+    "shop": "Panini",
+    "status": "preorder",
     "stock": false,
     "title": "Bleach Remix Vol. 17",
     "url": "https://panini.com.br/bleach-remix-vol-17"
@@ -66,21 +74,21 @@
   "https://panini.com.br/bleach-remix-vol-18": {
     "price": "69.90",
     "shop": "Panini",
-    "status": "in_stock",
-    "stock": true,
+    "status": "preorder",
+    "stock": false,
     "title": "Bleach Remix Vol. 18",
     "url": "https://panini.com.br/bleach-remix-vol-18"
   },
   "https://panini.com.br/bleach-remix-vol-19": {
     "price": "69.90",
     "shop": "Panini",
-    "status": "in_stock",
-    "stock": true,
+    "status": "preorder",
+    "stock": false,
     "title": "Bleach Remix Vol. 19",
     "url": "https://panini.com.br/bleach-remix-vol-19"
   },
   "https://panini.com.br/bleach-remix-vol-2": {
-    "price": "69.90",
+    "price": "55.92",
     "shop": "Panini",
     "status": "in_stock",
     "stock": true,
@@ -88,7 +96,7 @@
     "url": "https://panini.com.br/bleach-remix-vol-2"
   },
   "https://panini.com.br/bleach-remix-vol-20": {
-    "price": "69.90",
+    "price": "55.92",
     "shop": "Panini",
     "status": "in_stock",
     "stock": true,
@@ -96,7 +104,7 @@
     "url": "https://panini.com.br/bleach-remix-vol-20"
   },
   "https://panini.com.br/bleach-remix-vol-21": {
-    "price": "69.90",
+    "price": "55.92",
     "shop": "Panini",
     "status": "in_stock",
     "stock": true,
@@ -104,7 +112,7 @@
     "url": "https://panini.com.br/bleach-remix-vol-21"
   },
   "https://panini.com.br/bleach-remix-vol-22": {
-    "price": "69.90",
+    "price": "55.92",
     "shop": "Panini",
     "status": "in_stock",
     "stock": true,
@@ -112,7 +120,7 @@
     "url": "https://panini.com.br/bleach-remix-vol-22"
   },
   "https://panini.com.br/bleach-remix-vol-23": {
-    "price": "69.90",
+    "price": "55.92",
     "shop": "Panini",
     "status": "in_stock",
     "stock": true,
@@ -120,7 +128,7 @@
     "url": "https://panini.com.br/bleach-remix-vol-23"
   },
   "https://panini.com.br/bleach-remix-vol-24": {
-    "price": "69.90",
+    "price": "55.92",
     "shop": "Panini",
     "status": "in_stock",
     "stock": true,
@@ -128,7 +136,7 @@
     "url": "https://panini.com.br/bleach-remix-vol-24"
   },
   "https://panini.com.br/bleach-remix-vol-25": {
-    "price": "69.90",
+    "price": "55.92",
     "shop": "Panini",
     "status": "in_stock",
     "stock": true,
@@ -136,12 +144,20 @@
     "url": "https://panini.com.br/bleach-remix-vol-25"
   },
   "https://panini.com.br/bleach-remix-vol-26": {
-    "price": "64.90",
+    "price": "51.92",
     "shop": "Panini",
     "status": "in_stock",
     "stock": true,
     "title": "Bleach Remix Vol. 26",
     "url": "https://panini.com.br/bleach-remix-vol-26"
+  },
+  "https://panini.com.br/bleach-remix-vol-3-abler003r3": {
+    "price": "55.92",
+    "shop": "Panini",
+    "status": "in_stock",
+    "stock": true,
+    "title": "Bleach Remix Vol. 3",
+    "url": "https://panini.com.br/bleach-remix-vol-3-abler003r3"
   },
   "https://panini.com.br/bleach-remix-vol-4-abler004r3": {
     "price": "69.90",
