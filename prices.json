@@ -186,8 +186,8 @@
   "https://panini.com.br/bleach-remix-vol-7-abler007r2": {
     "price": "69.90",
     "shop": "Panini",
-    "status": "out_of_stock",
-    "stock": false,
+    "status": "in_stock",
+    "stock": true,
     "title": "Bleach Remix Vol. 7",
     "url": "https://panini.com.br/bleach-remix-vol-7-abler007r2"
   },
