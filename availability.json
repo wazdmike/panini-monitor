@@ -55,8 +55,8 @@
     "title": "Bleach Remix Vol. 19"
   },
   "https://panini.com.br/bleach-remix-vol-2": {
-    "status": "in_stock",
-    "stock": true,
+    "status": "out_of_stock",
+    "stock": false,
     "title": "Bleach Remix Vol. 2"
   },
   "https://panini.com.br/bleach-remix-vol-20": {

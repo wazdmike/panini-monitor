@@ -90,8 +90,8 @@
   "https://panini.com.br/bleach-remix-vol-2": {
     "price": "52.43",
     "shop": "Panini",
-    "status": "in_stock",
-    "stock": true,
+    "status": "out_of_stock",
+    "stock": false,
     "title": "Bleach Remix Vol. 2",
     "url": "https://panini.com.br/bleach-remix-vol-2"
   },
