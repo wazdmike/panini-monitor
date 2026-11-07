@@ -1,7 +1,7 @@
 {
   "https://panini.com.br/bleach-remix-vol-1-abler001r5": {
-    "status": "in_stock",
-    "stock": true,
+    "status": "out_of_stock",
+    "stock": false,
     "title": "Bleach Remix Vol. 1"
   },
   "https://panini.com.br/bleach-remix-vol-10": {

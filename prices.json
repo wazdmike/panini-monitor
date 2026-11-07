@@ -2,8 +2,8 @@
   "https://panini.com.br/bleach-remix-vol-1-abler001r5": {
     "price": "52.43",
     "shop": "Panini",
-    "status": "in_stock",
-    "stock": true,
+    "status": "out_of_stock",
+    "stock": false,
     "title": "Bleach Remix Vol. 1",
     "url": "https://panini.com.br/bleach-remix-vol-1-abler001r5"
   },
