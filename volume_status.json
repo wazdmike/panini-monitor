@@ -1,6 +1,6 @@
 {
   "1": {
-    "status": "out_of_stock",
+    "status": "in_stock",
     "url": "https://panini.com.br/bleach-remix-vol-1-abler001r5"
   },
   "10": {
@@ -44,7 +44,7 @@
     "url": "https://panini.com.br/bleach-remix-vol-19"
   },
   "2": {
-    "status": "out_of_stock",
+    "status": "in_stock",
     "url": "https://panini.com.br/bleach-remix-vol-2"
   },
   "20": {
