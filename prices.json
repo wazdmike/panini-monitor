@@ -18,37 +18,37 @@
   "https://panini.com.br/bleach-remix-vol-11": {
     "price": "55.92",
     "shop": "Panini",
-    "status": "preorder",
-    "stock": false,
+    "status": "in_stock",
+    "stock": true,
     "title": "Bleach Remix Vol. 11",
     "url": "https://panini.com.br/bleach-remix-vol-11"
   },
   "https://panini.com.br/bleach-remix-vol-12": {
     "price": "55.92",
     "shop": "Panini",
-    "status": "preorder",
-    "stock": false,
+    "status": "in_stock",
+    "stock": true,
     "title": "Bleach Remix Vol. 12",
     "url": "https://panini.com.br/bleach-remix-vol-12"
   },
   "https://panini.com.br/bleach-remix-vol-13": {
     "price": "55.92",
     "shop": "Panini",
-    "status": "preorder",
-    "stock": false,
+    "status": "in_stock",
+    "stock": true,
     "title": "Bleach Remix Vol. 13",
     "url": "https://panini.com.br/bleach-remix-vol-13"
   },
   "https://panini.com.br/bleach-remix-vol-14": {
     "price": "55.92",
     "shop": "Panini",
-    "status": "preorder",
-    "stock": false,
+    "status": "in_stock",
+    "stock": true,
     "title": "Bleach Remix Vol. 14",
     "url": "https://panini.com.br/bleach-remix-vol-14"
   },
   "https://panini.com.br/bleach-remix-vol-15": {
-    "price": "69.90",
+    "price": "55.92",
     "shop": "Panini",
     "status": "preorder",
     "stock": false,
@@ -56,7 +56,7 @@
     "url": "https://panini.com.br/bleach-remix-vol-15"
   },
   "https://panini.com.br/bleach-remix-vol-16": {
-    "price": "69.90",
+    "price": "55.92",
     "shop": "Panini",
     "status": "preorder",
     "stock": false,
@@ -64,7 +64,7 @@
     "url": "https://panini.com.br/bleach-remix-vol-16"
   },
   "https://panini.com.br/bleach-remix-vol-17": {
-    "price": "69.90",
+    "price": "55.92",
     "shop": "Panini",
     "status": "preorder",
     "stock": false,
